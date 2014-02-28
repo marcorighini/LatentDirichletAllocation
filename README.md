@@ -43,4 +43,4 @@ Sample output is available in data folder, bash scripts for running sample LDA t
 In details only output for kos dataset is included for size cause. If you are interested in the others dataset outputs (nips and enron) please contact me at righini.marco88 [AT] gmail.com. 
 
 # License
-Latent Dirichlet Allocation project is licensed under the terms of the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html). Please see the [LICENSE](LICENSE) file for full details.
+Latent Dirichlet Allocation project is licensed under the terms of the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html). Please see the [LICENSE](LICENSE.md) file for full details.
