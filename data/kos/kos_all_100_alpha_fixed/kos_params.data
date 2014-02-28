@@ -1,0 +1,12 @@
+train=../data/kos/kos_data/kos.dat
+validation=
+output: ../data/kos/kos_all_100_alpha_fixed/
+topics: 100
+alpha: 0.5
+beta: 0.028960324355632783
+iters: 800
+burnin: 400
+savestep: 40
+topwords: 20
+perplexity: 0
+export-complete: 0
